@@ -1,0 +1,37 @@
+[
+ {
+"id": 1,
+"producto": "dasayuno",
+"descripcion": "porcion de arroz con huevos pericos o caserola cafe en leche o negro y arepa.",
+"imagen": "desayuno.jpg",
+"precio": 7000
+},
+{
+"id": 2,
+"producto": "Agua de panela con Queso",
+"descripcion": "deliciosa bebida calida.",
+"imagen": "Agua de panela.jpg",
+"precio": 5000
+},
+{
+"id": 3,
+"producto": "Almuerzo con trucha",
+"descripcion": "Acompañado con porción de arroz platano frito y ensalada.",
+"imagen": "trucha.jpg",
+"precio": 20000
+},
+{
+"id": 4,
+"producto": "Almuerzo con carne asada",
+"descripcion": "acompañado con porción de arroz papa frita a la francesa y ensalada.",
+"imagen": "carne asada.jpg",
+"precio": 18000
+},
+{
+"id": 5,
+"producto": "Almuerzo con pollo sudado",
+"descripcion": "acompañado con porción de arroz patanos maduro  y ensalada.",
+"imagen": "pollo sudado.jpg",
+"precio": 18000
+}
+]
